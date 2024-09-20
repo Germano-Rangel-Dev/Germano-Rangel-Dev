@@ -24,6 +24,3 @@
   <a href="mailto:rantro.dev@outlook.com.br" target="_blank"/><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>  
 </div>
 
-##
-
-![Snake animation](https://github.com/Germano-Rangel-Dev/Germano-Rangel-Dev/output/github-contribution-grid-snake.svg)
