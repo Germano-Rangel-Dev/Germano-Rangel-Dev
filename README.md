@@ -23,3 +23,7 @@
   <a href="https://www.instagram.com/germanorangel.dev?igsh=M2gwMjBkMXZvOWJv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rantro.dev@outlook.com.br" target="_blank"/><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>  
 </div>
+
+##
+
+![Snake animation](https://github.com/Germano-Rangel-Dev/Germano-Rangel-Dev/output/github-contribution-grid-snake.svg)
