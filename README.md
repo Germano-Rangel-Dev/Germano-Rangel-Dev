@@ -1,6 +1,6 @@
 ## Olá sou Germano Rangel 👋
 
-- 🔭 Hoje aprendo e trabalho com linguagem Python e automação
+- 🔭 Hoje aprendo e trabalho com linguagem Python e automação de sistemas.
 - 😄 Pronomes: ele/dele
 <div>
   <a href="https://github.com/Germano-Rangel-Dev">
