@@ -1,11 +1,11 @@
 ## Olá sou Germano Rangel 👋
 
-- 🔭 Hoje aprendo e trabalho com linguagem Python e automação de sistemas.
-- 😄 Pronomes: ele/dele
+<h4> - 🔭 Hoje aprendo e trabalho com linguagem Python e automação de sistemas.</h4>
+<h4> - 😄 Pronomes: ele/dele.</h4>
 <div>
   <a href="https://github.com/Germano-Rangel-Dev">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Germano-Rangel-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germano-Rangel-Dev&layout=compact&langs_count=16&theme=dracula"/>  
+  <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=Germano-Rangel-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germano-Rangel-Dev&layout=compact&langs_count=16&theme=dracula"/>  
 </div>
     
 <div style="display: inline-block"><br>
