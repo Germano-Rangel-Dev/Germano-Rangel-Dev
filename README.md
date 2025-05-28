@@ -1,6 +1,8 @@
 ## Olá sou Germano Rangel 👋
 
-<h4> - 🔭 Hoje aprendo e trabalho com linguagem Python e automação de sistemas.</h4>
+<h4> - 🔭 Aprendo e trabalho com linguagem Python e automação de sistemas.</h4>
+<h4> - 🎮 Criação de Games com as engines Unity, Game Maker, Unreal.</h4>
+<h4> - 🎮 Linguagens utilizadas para criação de Games: C#, Java e C++.</h4>
 <h4> - 😄 Pronomes: ele/dele.</h4>
 <div>
   <a href="https://github.com/Germano-Rangel-Dev">
@@ -13,6 +15,9 @@
     <img align="center" alt="Germano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Germano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Germano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Germano-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Germano-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+    <img align="center" alt="Germano-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ##
