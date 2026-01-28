@@ -12,7 +12,7 @@
     
 <div style="display: inline-block"><br>
       <img align="center" alt="Germano-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Germano-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verse/verse-original.svg">
+  <img align="center" alt="Germano-Verse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verse/verse-original.svg">
 </div>
 
 ##
