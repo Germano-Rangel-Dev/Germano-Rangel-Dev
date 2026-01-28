@@ -1,7 +1,7 @@
 ## Olá sou Germano Rangel 👋
 
 <h4> - 🔭 Aprendo e trabalho com linguagem C++ e Verse.</h4>
-<h4> - 🎮 Criação de Games com as engines Unreal.</h4>
+<h4> - 🎮 Criação de Games com a engine Unreal.</h4>
 <h4> - 🎮 Linguagens utilizadas para criação de Games: C++ e Verse para Fortnite da Epic.</h4>
 <h4> - 😄 Pronomes: ele/dele.</h4>
 <div>
