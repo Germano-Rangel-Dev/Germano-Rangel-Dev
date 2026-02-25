@@ -84,23 +84,9 @@
 
 
 
-## Olá sou Germano Rangel 👋
 
-<h4> - 🔭 Aprendo e trabalho com linguagem C++ e Verse.</h4>
-<h4> - 🎮 Criação de Games com a engine Unreal.</h4>
-<h4> - 🎮 Linguagens utilizadas para criação de Games: C++ e Verse para Fortnite da Epic.</h4>
-<h4> - 😄 Pronomes: ele/dele.</h4>
-<div>
-  <a href="https://github.com/Germano-Rangel-Dev">
-  <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=Germano-Rangel-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germano-Rangel-Dev&layout=compact&langs_count=16&theme=dracula"/>  
-</div>
-    
-<div style="display: inline-block"><br>
-      <img align="center" alt="Germano-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
 
-##
+
 
 <div>
   <a href="https://www.linkedin.com/in/germano-rangel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
