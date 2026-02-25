@@ -1,3 +1,89 @@
+# 👾 Germano Rangel — Game Developer & 3D Artist
+
+> 🎯 *Criando experiências jogáveis, mundos imersivos e mecânicas inteligentes.*
+
+---
+
+## 🕹️ Player Profile
+
+**Nickname:** Germano  
+**Classe:** Game Developer / 3D Artist  
+**Especialização:** Gameplay Systems  
+**Engine Main:** Unreal Engine 5  
+**Modo Atual:** Indie Dev + Fortnite Creator  
+
+---
+
+## ⚔️ Skill Tree
+
+
+---
+
+## 🚀 Tech Stack
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-000000?style=for-the-badge&logo=unrealengine)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
+![Verse](https://img.shields.io/badge/Verse-Fortnite-purple?style=for-the-badge)
+![Game Design](https://img.shields.io/badge/Game%20Design-FF007F?style=for-the-badge)
+
+---
+
+## 🎯 Current Quests
+
+- 🎮 Desenvolvendo jogos indie em Unreal Engine 5  
+- 🏝️ Criando ilhas Fortnite com UEFN + Verse  
+- 🧠 Estudando Game Architecture & Engine Systems  
+- 🛠️ Construindo portfólio profissional de Game Dev  
+
+---
+
+## 🏆 Achievements
+
+🏅 Blender 3D Artist  
+🏅 Gameplay Programmer  
+🏅 Unreal Engine Developer  
+🏅 UEFN Creator  
+🏅 Indie Game Developer  
+
+---
+
+## 🧠 Knowledge Areas
+
+- Game Loop & Engine Architecture  
+- Gameplay Systems & Mechanics  
+- Multiplayer Game Logic  
+- Optimization for Real-Time Games  
+- Level Design & Player Experience  
+- Hybrid Blueprint + C++ Development  
+
+---
+
+## 🕹️ Projects & Portfolio
+
+🔗 **Repositórios:**  
+👉 Projetos Unreal, C++, Verse e Game Dev em construção  
+
+---
+
+## 📡 Contact
+
+🌐 LinkedIn: (adicione aqui)  
+🎨 ArtStation / Sketchfab: (opcional)  
+💬 Discord: (opcional)  
+
+---
+
+## 💬 Favorite Quote
+
+> "Games are the ultimate fusion of art, code and design."
+
+---
+
+### ▶️ Press START to explore my repositories
+
+
+
 ## Olá sou Germano Rangel 👋
 
 <h4> - 🔭 Aprendo e trabalho com linguagem C++ e Verse.</h4>
