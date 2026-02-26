@@ -69,7 +69,7 @@
 ## 📡 Contact
 
 🌐 LinkedIn: (www.linkedin.com/in/germano-rangel-troian)  
-💬 WhatsApp: https://wa.me/552164757223  
+💬 WhatsApp: https://wa.me/5521964757223  
 
 ---
 
