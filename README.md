@@ -1,95 +1,164 @@
-# 👾 Germano Rangel — Game Developer & 3D Artist
+# 👾 GERMANO RANGEL TROIAN
+## 🚀 AAA GAME SYSTEM INITIALIZED
 
-> 🎯 *Criando experiências jogáveis, mundos imersivos e mecânicas inteligentes.*
-
----
-
-## 🕹️ Player Profile
-
-**Nickname:** Germano  
-**Classe:** Game Developer / 3D Artist  
-**Especialização:** Gameplay Systems  
-**Engine Main:** Unreal Engine 5  
-**Modo Atual:** Indie Dev + Fortnite Creator  
+> STATUS: ONLINE  
+> CLASS: GAME DEVELOPER / 3D ARTIST / SYSTEMS PROGRAMMER  
+> PRIMARY ENGINE: UNREAL ENGINE 5  
+> SECONDARY STACK: C++ | PYTHON | VERSE  
 
 ---
 
-## ⚔️ Skill Tree
+# 🎯 PLAYER PROFILE
 
-
----
-
-## 🚀 Tech Stack
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-000000?style=for-the-badge&logo=unrealengine)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
-![Verse](https://img.shields.io/badge/Verse-Fortnite-purple?style=for-the-badge)
-![Game Design](https://img.shields.io/badge/Game%20Design-FF007F?style=for-the-badge)
+🧠 Architect of interactive systems  
+🎮 Designer of gameplay mechanics  
+🎨 Builder of immersive worlds  
+🐍 Creator of intelligent development tools  
 
 ---
 
-## 🎯 Current Quests
+# ⚔ SKILL TREE
 
-- 🎮 Desenvolvendo jogos indie em Unreal Engine 5  
-- 🏝️ Criando ilhas Fortnite com UEFN + Verse  
-- 🧠 Estudando Game Architecture & Engine Systems  
-- 🛠️ Construindo portfólio profissional de Game Dev  
+## 🎮 GAME DEVELOPMENT
+- Unreal Engine 5
+- C++ Gameplay Programming
+- Blueprint Systems
+- Multiplayer Logic
+- Game Loop Architecture
+
+## 🐍 PYTHON SYSTEMS
+- Pipeline Automation
+- Tool Development
+- Asset Management Scripts
+- Game Data Structuring
+- Backend Foundations
+- Desktop Utility Tools
+
+## 🎨 3D & VISUAL PRODUCTION
+- Blender Modeling
+- Sculpting
+- PBR Workflow
+- Lighting & Composition
 
 ---
 
-## 🏆 Achievements
+# 🛰 ACTIVE MISSIONS
 
-🏅 Blender 3D Artist  
-🏅 Gameplay Programmer  
+🎮 Developing Indie Games in UE5  
+🏝 Creating Fortnite Islands with UEFN + Verse  
+🐍 Building internal tools with Python  
+🧠 Studying Engine Architecture  
+🛠 Expanding professional Game Dev portfolio  
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+🏅 3D Artist (Blender)  
+🏅 Gameplay Programmer (C++)  
 🏅 Unreal Engine Developer  
+🏅 Python Tool Developer  
 🏅 UEFN Creator  
-🏅 Indie Game Developer  
 
 ---
 
-## 🧠 Knowledge Areas
+# 🧠 KNOWLEDGE AREAS
 
-- Game Loop & Engine Architecture  
-- Gameplay Systems & Mechanics  
-- Multiplayer Game Logic  
-- Optimization for Real-Time Games  
-- Level Design & Player Experience  
-- Hybrid Blueprint + C++ Development  
-
----
-
-## 🕹️ Projects & Portfolio
-
-🔗 **Repositórios:**  
-👉 Projetos Unreal, C++, Verse e Game Dev em construção  
+- Game Engine Architecture
+- Systems Design
+- Gameplay Programming
+- Multiplayer Logic
+- Real-Time Optimization
+- Hybrid Development (C++ + Blueprint)
+- Development Tools Engineering (Python)
 
 ---
 
-## 📡 Contact
+# 🕹 PROJECTS
 
-🌐 LinkedIn: (www.linkedin.com/in/germano-rangel-troian)  
-💬 WhatsApp: https://wa.me/5521964757223  
+🔗 Unreal Engine Projects  
+🔗 Python Tools & Systems  
+🔗 Verse / UEFN Experiences  
+🔗 Indie Game Development  
 
 ---
 
-## 💬 Favorite Quote
+# 📡 CONTACT
+
+🌐 LinkedIn  
+www.linkedin.com/in/germano-rangel-troian  
+
+📲 WhatsApp  
+https://wa.me/5521964757223  
+
+---
 
 > "Games are the ultimate fusion of art, code and design."
 
----
+▶ PRESS START TO EXPLORE
 
-### ▶️ Press START to explore my repositories
+# 🐍 PYTHON TOOL DEVELOPMENT
 
+Python is used strategically in my workflow to:
 
+- Automate asset pipelines
+- Structure gameplay data
+- Create productivity tools
+- Build desktop utilities for game dev
+- Prototype gameplay logic
+- Support backend and integration systems
 
+## 🔧 Example Projects
 
+- Game Asset Organizer Tool
+- Indie Game Launcher System
+- Installer Builder for Desktop Tools
+- Local Data Management System
+- Gameplay Logic Prototyping
 
+Python enhances productivity and development scalability.
 
+# Germano Rangel Troian
+### Game Developer | Technical Gameplay Programmer | 3D Artist
 
-<div>
-  <a href="www.linkedin.com/in/germano-rangel-troian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=(+5521964757223)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:rantro.dev@outlook.com.br" target="_blank"/><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>  
-</div>
+I design and build interactive experiences combining engineering, systems thinking and artistic production.
 
+## Core Expertise
+- Unreal Engine 5 (C++)
+- Gameplay Systems Architecture
+- Multiplayer Logic
+- Python Tool Development
+- 3D Production (Blender)
+- UEFN & Verse
+
+## Technical Focus
+- Engine-level thinking
+- Scalable gameplay systems
+- Real-time optimization
+- Tooling & automation pipelines
+- Hybrid C++ / Blueprint workflows
+
+## Current Focus
+Developing indie games with strong system architecture and building internal development tools using Python.
+
+## Contact
+LinkedIn: www.linkedin.com/in/germano-rangel-troian
+WhatsApp: https://wa.me/5521964757223
+
+# Technical Game Programmer Profile
+
+I specialize in gameplay systems architecture and technical implementation inside Unreal Engine 5.
+
+My focus areas include:
+
+- Game Loop Architecture
+- Systems Design Patterns
+- Multiplayer Synchronization
+- Performance Optimization
+- Tool Development using Python
+- Internal Pipeline Automation
+- Gameplay Logic Engineering
+
+Python is used to enhance development workflows, create internal utilities and support scalable game production.
+
+Goal: Build technically robust and creatively engaging interactive systems.
