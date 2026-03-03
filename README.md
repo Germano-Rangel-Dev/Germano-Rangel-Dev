@@ -86,10 +86,12 @@
 # 📡 CONTACT
 
 🌐 LinkedIn  
-www.linkedin.com/in/germano-rangel-troian  
+# 📡 CONTACT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germano-rangel-troian)
 
 📲 WhatsApp  
-https://wa.me/5521964757223  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521964757223)  
 
 ---
 
