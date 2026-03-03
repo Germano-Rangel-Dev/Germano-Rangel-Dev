@@ -86,7 +86,6 @@
 # 📡 CONTACT
 
 🌐 LinkedIn  
-# 📡 CONTACT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germano-rangel-troian)
 
@@ -143,10 +142,6 @@ I design and build interactive experiences combining engineering, systems thinki
 ## Current Focus
 Developing indie games with strong system architecture and building internal development tools using Python.
 
-## Contact
-LinkedIn: www.linkedin.com/in/germano-rangel-troian
-WhatsApp: https://wa.me/5521964757223
-
 # Technical Game Programmer Profile
 
 I specialize in gameplay systems architecture and technical implementation inside Unreal Engine 5.
@@ -164,3 +159,8 @@ My focus areas include:
 Python is used to enhance development workflows, create internal utilities and support scalable game production.
 
 Goal: Build technically robust and creatively engaging interactive systems.
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germano-rangel-troian)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521964757223)
