@@ -1,89 +1,50 @@
-# 👾 GERMANO RANGEL TROIAN
-## 🚀 AAA GAME SYSTEM INITIALIZED
+# 👨‍💻 Germano Rangel
 
-> STATUS: ONLINE  
-> CLASS: GAME DEVELOPER / 3D ARTIST / SYSTEMS PROGRAMMER  
-> PRIMARY ENGINE: UNREAL ENGINE 5  
-> SECONDARY STACK: C++ | PYTHON | VERSE  
+💻 Desenvolvedor Python | Automação de Processos | Bots | Web Scraping
+
+🚀 Transformo tarefas manuais em soluções automatizadas que economizam tempo e reduzem custos.
 
 ---
 
-# 🎯 PLAYER PROFILE
+## 🔥 O que eu faço
 
-🧠 Architect of interactive systems  
-🎮 Designer of gameplay mechanics  
-🎨 Builder of immersive worlds  
-🐍 Creator of intelligent development tools  
-
----
-
-# ⚔ SKILL TREE
-
-## 🎮 GAME DEVELOPMENT
-- Unreal Engine 5
-- C++ Gameplay Programming
-- Blueprint Systems
-- Multiplayer Logic
-- Game Loop Architecture
-
-## 🐍 PYTHON SYSTEMS
-- Pipeline Automation
-- Tool Development
-- Asset Management Scripts
-- Game Data Structuring
-- Backend Foundations
-- Desktop Utility Tools
-
-## 🎨 3D & VISUAL PRODUCTION
-- Blender Modeling
-- Sculpting
-- PBR Workflow
-- Lighting & Composition
+* 🤖 Automação de tarefas repetitivas
+* 🌐 Web Scraping (coleta de dados)
+* 📊 Manipulação de dados (Excel, CSV)
+* ⚙️ Desenvolvimento de sistemas com Python (Flask)
+* 🔗 Integração entre sistemas
 
 ---
 
-# 🛰 ACTIVE MISSIONS
+## 💼 Projetos em destaque
 
-🎮 Developing Indie Games in UE5  
-🏝 Creating Fortnite Islands with UEFN + Verse  
-🐍 Building internal tools with Python  
-🧠 Studying Engine Architecture  
-🛠 Expanding professional Game Dev portfolio  
+### 🤖 Bot de Automação
 
----
+Automatiza preenchimento de formulários web com dados de arquivos.
 
-# 🏆 ACHIEVEMENTS
+### 🌐 Web Scraper
 
-🏅 3D Artist (Blender)  
-🏅 Gameplay Programmer (C++)  
-🏅 Unreal Engine Developer  
-🏅 Python Tool Developer  
-🏅 UEFN Creator  
+Coleta dados automaticamente de sites e organiza em planilhas.
+
+### ⚙️ Sistema Web com Flask
+
+Sistema simples para cadastro e automação de dados.
 
 ---
 
-# 🧠 KNOWLEDGE AREAS
+## 💰 Benefícios que entrego
 
-- Game Engine Architecture
-- Systems Design
-- Gameplay Programming
-- Multiplayer Logic
-- Real-Time Optimization
-- Hybrid Development (C++ + Blueprint)
-- Development Tools Engineering (Python)
+✔ Redução de tarefas manuais
+✔ Aumento de produtividade
+✔ Menos erros operacionais
+✔ Economia de tempo e custo
 
 ---
 
-# 🕹 PROJECTS
+## 📩 Contato
 
-🔗 Unreal Engine Projects  
-🔗 Python Tools & Systems  
-🔗 Verse / UEFN Experiences  
-🔗 Indie Game Development  
-
----
-
-# 📡 CONTACT
+📧 Email: [Profissional](mailto:rantro.dev@outlook.com.br)
+💬 Aberto para projetos freelance
 
 🌐 LinkedIn  
 
@@ -92,8 +53,3 @@
 📲 WhatsApp  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521964757223)  
 
----
-
-> "Games are the ultimate fusion of art, code and design."
-
-▶ PRESS START TO EXPLORE
